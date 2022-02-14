@@ -1,0 +1,126 @@
+/* Header */
+
+.source {
+    color: rgb(39, 39, 82);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+    font-size: 20px;
+}
+.topLinks {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button {
+    background-color: rgb(39, 39, 82);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100px;
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style: none;
+    padding-right: 50px;
+    color: rgb(39, 39, 82);
+}
+header {
+    padding-bottom: 50px;
+}
+
+/* Main Section */
+
+span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: rgb(39, 39, 82);
+}
+section {
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(39, 39, 82);
+    width: 220px;
+    font-size: 25px;
+}
+.leftPart {
+    width: 50%;
+    padding-top: 80px;
+    padding-left: 50px;
+}
+.rightPart {
+    width: 50%;
+}
+main {
+    display: flex;
+}
+
+img {
+    width: 500px;
+}
+
+.bar {
+    display: flex;
+}
+
+p {
+    width: 250px;
+    font-size: 12px;
+    color: rgb(39, 39, 82);
+}
+
+/* Features */
+
+.features {
+    display: flex;
+    padding: 20px;
+    padding-left: 50px;
+    justify-content: center;
+}
+
+.one {
+    padding: 15px;
+}
+
+.one p {
+    width: 190px;
+}
+
+h4 {
+    color: rgb(39, 39, 82);
+}
+
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(39, 39, 82);
+    font-weight: 700;
+    font-size: 14px;
+}
+
+/* Bottom */
+
+.bottom {
+   font-family: Arial, Helvetica, sans-serif;
+   padding-left: 50px;
+   font-size: 40px;
+   width: 520px;
+   color: rgb(39, 39, 82);
+}
+.last {
+    padding-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 380px;
+    color: rgb(39, 39, 82);
+}
